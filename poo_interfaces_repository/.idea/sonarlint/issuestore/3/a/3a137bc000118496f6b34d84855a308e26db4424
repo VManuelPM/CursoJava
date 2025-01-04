@@ -1,0 +1,13 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "manu".(»˜å›8ÅÅŠÃ2
+F
+java:S1481")Remove this unused "manu" local variable.(»˜å›8’ÅÅŠÃ2
+G	java:S106"+Replace this use of System.out by a logger.(ÔšØ•8“ÅÅŠÃ2
+F	java:S106"+Replace this use of System.out by a logger.(şÈS8“ÅÅŠÃ2
+G	java:S106""+Replace this use of System.out by a logger.(Çü€ç8“ÅÅŠÃ2
+G	java:S106+"+Replace this use of System.out by a logger.(”úóˆ8•ÅÅŠÃ2
+G	java:S106,"+Replace this use of System.out by a logger.(æıÌµ8•ÅÅŠÃ2
+L	java:S106-"+Replace this use of System.out by a logger.(±‹›±ûÿÿÿÿ8”­ÎŠÃ2
+L	java:S106>"+Replace this use of System.out by a logger.(òØºªûÿÿÿÿ8¼‡ÔŠÃ2
+G	java:S106E"+Replace this use of System.out by a logger.(ö±»‹8âØÖŠÃ2
