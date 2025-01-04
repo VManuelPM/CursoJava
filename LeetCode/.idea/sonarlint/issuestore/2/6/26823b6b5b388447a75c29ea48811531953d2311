@@ -1,0 +1,10 @@
+
+V
+java:S1854
+"9Remove this useless assignment to local variable "words".(Š¼Ôâ8ÍšÁ´1
+G
+java:S1197
+"*Move the array designators [] to the type.(Š¼Ôâ8ÎšÁ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à·ã¦úÿÿÿÿ8ò«›Á´1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8«õÁ´1

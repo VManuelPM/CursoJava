@@ -1,0 +1,10 @@
+
+G
+java:S1197"*Move the array designators [] to the type.(İèİ€8øÃ¤®²1
+]	java:S125"<This block of commented-out lines of code should be removed.(è ‰°şÿÿÿÿ8øÃ¤®²1
+L
+java:S1197"*Move the array designators [] to the type.(¬‚¡àıÿÿÿÿ8ùÃ¤®²1
+X	java:S125"<This block of commented-out lines of code should be removed.(ôÛêş8ùÃ¤®²1
+u
+java:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Æ­§8úÃ¤®²1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(êÜ¼¨8úÃ¤®²1

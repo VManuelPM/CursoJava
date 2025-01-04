@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8·„ğ¤–1
+R
+java:S1481"0Remove this unused "transpuesta" local variable.(‡ü´üÿÿÿÿ8½„ğ¤–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê«û‘8¾„ğ¤–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¯ã˜ıÿÿÿÿ8¾„ğ¤–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§›ø¤–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´İ¯é8§èú¤–1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ó¯ã˜ıÿÿÿÿ8§èú¤–1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§èú¤–1

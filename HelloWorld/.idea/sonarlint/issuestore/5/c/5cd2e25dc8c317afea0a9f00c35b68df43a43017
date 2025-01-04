@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8¬¬Õú‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Š¹Û¾ùÿÿÿÿ8º¬Õú‹1
+u
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(áÀÏÆüÿÿÿÿ8»¬Õú‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«áÊŸ8‘Í×ú‹1

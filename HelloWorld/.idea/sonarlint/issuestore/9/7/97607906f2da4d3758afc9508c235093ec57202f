@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8æò¶û‹1
+`
+java:S2259
+"CA "NullPointerException" could be thrown; "curso" is nullable here.(€Šßº8Ñ…Æû‹1
+^
+java:S1854"<Remove this useless assignment to local variable "isVacio3".(¨³°®ùÿÿÿÿ8ƒ½Óû‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô±ë¢þÿÿÿÿ8Ñ ¸û‹1
+O
+java:S1481"-Remove this unused "isVacio3" local variable.(¨³°®ùÿÿÿÿ8…½Óû‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦û´ë8“È¹û‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦û´ë8ËàÆû‹1
