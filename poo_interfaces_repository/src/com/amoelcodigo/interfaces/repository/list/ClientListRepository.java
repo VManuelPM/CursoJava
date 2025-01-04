@@ -1,50 +1,19 @@
-package com.amoelcodigo.interfaces.repository;
+package com.amoelcodigo.interfaces.repository.list;
 
 import com.amoelcodigo.interfaces.models.Cliente;
+import com.amoelcodigo.interfaces.repository.AbstractListRepository;
+import com.amoelcodigo.interfaces.repository.Direction;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ClientListRepository implements OrdablePaginableCrudRepositoy<Cliente>{
-
-    private List<Cliente> dataSource;
-
-    public ClientListRepository() {
-        this.dataSource = new ArrayList<>();
-    }
-
-    @Override
-    public List<Cliente> findAll() {
-        return dataSource;
-    }
-
-    @Override
-    public Cliente findById(int id) {
-        Cliente cliente = null;
-        for (Cliente cli : dataSource) {
-            if(cli.getId() != 0 && cli.getId() == id) {
-                cliente = cli;
-                break;
-            }
-        }
-        return cliente;
-    }
-
-    @Override
-    public void createClient(Cliente cliente) {
-        this.dataSource.add(cliente);
-    }
+public class ClientListRepository extends AbstractListRepository<Cliente> {
 
     @Override
     public void edit(Cliente cliente) {
         Cliente c = findById(cliente.getId());
         c.setNombre(cliente.getNombre());
         c.setApellido(cliente.getApellido());
-    }
-
-    @Override
-    public void deleteById(int id) {
-        this.dataSource.remove(id);
     }
 
     @Override
@@ -62,11 +31,6 @@ public class ClientListRepository implements OrdablePaginableCrudRepositoy<Clien
         return listaOrdenada;
     }
 
-    @Override
-    public List<Cliente> findAll(int since, int to) {
-        return dataSource.subList(since, to);
-    }
-
     private int order(Cliente a, Cliente b, String field) {
         int resultado = 0;
         switch (field) {
@@ -77,8 +41,4 @@ public class ClientListRepository implements OrdablePaginableCrudRepositoy<Clien
         return resultado;
     }
 
-    @Override
-    public int count() {
-        return this.dataSource.size();
-    }
 }

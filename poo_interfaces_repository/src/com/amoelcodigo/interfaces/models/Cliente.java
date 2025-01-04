@@ -1,28 +1,14 @@
 package com.amoelcodigo.interfaces.models;
 
-public class Cliente {
-    private int id;
+public class Cliente extends BaseEntity{
+
     private String nombre;
     private String apellido;
 
-    private static int lastId;
-
     public Cliente(String nombre, String apellido) {
-        this();
+        super();
         this.nombre = nombre;
         this.apellido = apellido;
-    }
-
-    public Cliente() {
-        this.id = ++lastId;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public String getNombre() {
@@ -45,8 +31,5 @@ public class Cliente {
     public String toString() {
         return "id=" + id + ", nombre='" + nombre + '\'' + ", apellido='" + apellido + '\'';
     }
-
-
-
 
 }

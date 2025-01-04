@@ -1,9 +1,9 @@
 package com.amoelcodigo.interfaces;
 
 import com.amoelcodigo.interfaces.models.Cliente;
-import com.amoelcodigo.interfaces.repository.ClientListRepository;
-import com.amoelcodigo.interfaces.repository.CrudRepository;
+import com.amoelcodigo.interfaces.repository.list.ClientListRepository;
 import com.amoelcodigo.interfaces.repository.Direction;
+import com.amoelcodigo.interfaces.repository.OrdablePaginableCrudRepositoy;
 import com.amoelcodigo.interfaces.repository.OrdenableRepository;
 import com.amoelcodigo.interfaces.repository.PaginableRepository;
 
@@ -11,11 +11,11 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        CrudRepository repository = new ClientListRepository();
-        repository.createClient(new Cliente("Jano", "Perez"));
-        repository.createClient(new Cliente("Bea", "Triz"));
-        repository.createClient(new Cliente("Luci", "Ernaga"));
-        repository.createClient(new Cliente("Victor", "Pedraza"));
+        OrdablePaginableCrudRepositoy<Cliente> repository = new ClientListRepository();
+        repository.create(new Cliente("Jano", "Perez"));
+        repository.create(new Cliente("Bea", "Triz"));
+        repository.create(new Cliente("Luci", "Ernaga"));
+        repository.create(new Cliente("Victor", "Pedraza"));
 
         List<Cliente> clientes = repository.findAll();
 
