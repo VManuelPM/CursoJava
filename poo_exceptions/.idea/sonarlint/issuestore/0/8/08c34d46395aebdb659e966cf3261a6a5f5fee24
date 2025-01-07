@@ -1,0 +1,19 @@
+
+U
+java:S1854"9Remove this useless assignment to local variable "valor".(¶…út8¢®¢“Ã2
+F
+java:S1481"*Remove this unused "valor" local variable.(¶…út8£®¢“Ã2
+N
+java:S1481",Remove this unused "divisor" local variable.(üæÉùÿÿÿÿ8£®¢“Ã2
+O
+java:S1481"-Remove this unused "division" local variable.(–è“ßşÿÿÿÿ8·í¡“Ã2
+]	java:S125"<This block of commented-out lines of code should be removed.(„´Ìşüÿÿÿÿ8¤®¢“Ã2
+G	java:S106"+Replace this use of System.out by a logger.(ª‘ —8±ë“Ã2
+L	java:S106"+Replace this use of System.out by a logger.(ñı‘ùÿÿÿÿ8±ë“Ã2
+G	java:S106"+Replace this use of System.out by a logger.(¿å‚¯8±ë“Ã2
+G	java:S106"+Replace this use of System.out by a logger.(½Ôõ€8±ë“Ã2
+F	java:S106"+Replace this use of System.out by a logger.(üíÄP8ü´Ÿ“Ã2
+L	java:S106"+Replace this use of System.out by a logger.(Óë¢Ëùÿÿÿÿ8¢¶ “Ã2
+L	java:S106""+Replace this use of System.out by a logger.(¢«òˆúÿÿÿÿ8ââ “Ã2
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¸í¡“Ã2

@@ -1,0 +1,10 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¾ùÊ¢8ã¼ÀÀÃ2
+L	java:S106"+Replace this use of System.out by a logger.(ü¼¨şÿÿÿÿ8ä¼ÀÀÃ2
+L	java:S106"+Replace this use of System.out by a logger.(ŞªìÈÿÿÿÿÿ8ä¼ÀÀÃ2
+L	java:S106 "+Replace this use of System.out by a logger.(ß¹æøÿÿÿÿ8ä¼ÀÀÃ2
+G	java:S106$"+Replace this use of System.out by a logger.(«È¬Ú8Ë²ÁÀÃ2
+G	java:S106'"+Replace this use of System.out by a logger.(—ÊèŒ8çÃÆÀÃ2
+N
+java:S1602(",Remove useless curly braces around statement(é¹¿âûÿÿÿÿ8ÚşÊÀÃ2
+G	java:S106)"+Replace this use of System.out by a logger.(‡“µÜ8ÛşÊÀÃ2

@@ -1,0 +1,8 @@
+
+l
+java:S1192 "JDefine a constant instead of duplicating this literal "Santiago" 20 times.(ã´Ÿèøÿÿÿÿ8Å¸İÃ2
+[
+java:S1854">Remove this useless assignment to local variable "vuelosList".(”ß¢»8Ï¸İÃ2
+L	java:S106"+Replace this use of System.out by a logger.(‹ûüºıÿÿÿÿ8Ğ¸İÃ2
+L	java:S106"+Replace this use of System.out by a logger.(ÍÖÏıÿÿÿÿ8Ñ¸İÃ2
+G	java:S106"+Replace this use of System.out by a logger.(öàµï8³§—İÃ2

@@ -1,0 +1,37 @@
+
+r
+java:S1192"PDefine a constant instead of duplicating this literal "apellidoPaterno" 3 times.(Àšñ¼ıÿÿÿÿ8Ä›×ÛÃ2
+d
+java:S1192"GDefine a constant instead of duplicating this literal "nombre" 3 times.(„ÏÖÂ8ëîİÛÃ2
+m
+java:S1192"KDefine a constant instead of duplicating this literal "persona = " 4 times.(æÒù–ùÿÿÿÿ8‡•ÛÛÃ2
+G	java:S106"+Replace this use of System.out by a logger.(¨¿ñ¹8Ó›×ÛÃ2
+L	java:S106"+Replace this use of System.out by a logger.(æÒù–ùÿÿÿÿ8Ô›×ÛÃ2
+L	java:S106"+Replace this use of System.out by a logger.(ÏÚ†Šúÿÿÿÿ8Ô›×ÛÃ2
+L	java:S106"+Replace this use of System.out by a logger.(¥º¤øÿÿÿÿ8Ô›×ÛÃ2
+L	java:S106"+Replace this use of System.out by a logger.(¦çÃ¸ÿÿÿÿÿ8Ô›×ÛÃ2
+G	java:S106"+Replace this use of System.out by a logger.(¾Èÿ8Ô›×ÛÃ2
+G	java:S106"+Replace this use of System.out by a logger.(ı½›8Ô›×ÛÃ2
+L	java:S106"+Replace this use of System.out by a logger.(æÒù–ùÿÿÿÿ8Õ›×ÛÃ2
+L	java:S106 "+Replace this use of System.out by a logger.(­ßÓ´üÿÿÿÿ8Õ›×ÛÃ2
+G	java:S106""+Replace this use of System.out by a logger.(ËÍÄ¹8Õ›×ÛÃ2
+G	java:S106$"+Replace this use of System.out by a logger.(©ìë”8Õ›×ÛÃ2
+L	java:S106&"+Replace this use of System.out by a logger.(Æ•Ú¶ÿÿÿÿÿ8Õ›×ÛÃ2
+L	java:S106("+Replace this use of System.out by a logger.(½—›ñùÿÿÿÿ8Õ›×ÛÃ2
+F	java:S106*"+Replace this use of System.out by a logger.(ë•Òw8Ö›×ÛÃ2
+L	java:S106,"+Replace this use of System.out by a logger.(çÄŞÇúÿÿÿÿ8Ö›×ÛÃ2
+L	java:S106."+Replace this use of System.out by a logger.(‹ş—şÿÿÿÿ8Ö›×ÛÃ2
+F	java:S1060"+Replace this use of System.out by a logger.(Š¨ëe8Ö›×ÛÃ2
+G	java:S1062"+Replace this use of System.out by a logger.(‡’À«8Ö›×ÛÃ2
+G	java:S1065"+Replace this use of System.out by a logger.(’¤½ÿ8Ö›×ÛÃ2
+P
+java:S28646"4Iterate over the "entrySet" instead of the "keySet".(âó÷78Ö›×ÛÃ2
+L	java:S1068"+Replace this use of System.out by a logger.(ˆ©Ïúÿÿÿÿ8Ö›×ÛÃ2
+L	java:S106;"+Replace this use of System.out by a logger.(ò¯Ùˆıÿÿÿÿ8øÈÙÛÃ2
+L	java:S106<"+Replace this use of System.out by a logger.(üÔÅ»øÿÿÿÿ8øÈÙÛÃ2
+L	java:S106>"+Replace this use of System.out by a logger.(Â„íúÿÿÿÿ8ÕÈÚÛÃ2
+L	java:S106?"+Replace this use of System.out by a logger.(ÿ¨æşÿÿÿÿ8ÖÈÚÛÃ2
+G	java:S106A"+Replace this use of System.out by a logger.(ØŸ„¥8õîİÛÃ2
+L	java:S106C"+Replace this use of System.out by a logger.(æÒù–ùÿÿÿÿ8õîİÛÃ2
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8×›×ÛÃ2
