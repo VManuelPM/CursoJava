@@ -1,0 +1,6 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "entrada2".(§¾ß¾8ù»ŒÄ2
+J
+java:S1481"-Remove this unused "entrada2" local variable.(§¾ß¾8‚ù»ŒÄ2
+G	java:S106"+Replace this use of System.out by a logger.(„îÇ8ƒù»ŒÄ2

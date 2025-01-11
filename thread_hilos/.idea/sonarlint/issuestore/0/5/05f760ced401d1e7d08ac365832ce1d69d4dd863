@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Çœ‚½Ä2
+F	java:S106
+"+Replace this use of System.out by a logger.(£Ã8Íœ‚½Ä2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Íœ‚½Ä2
+G
+java:S2140"*Use "java.util.Random.nextLong()" instead.(Í„‰á8Íœ‚½Ä2
+L	java:S106"+Replace this use of System.out by a logger.(¾“óßüÿÿÿÿ8Îœ‚½Ä2
+L	java:S106"+Replace this use of System.out by a logger.(Îùã™úÿÿÿÿ8Ïœ‚½Ä2
+G	java:S106$"+Replace this use of System.out by a logger.(šØæ–8ìŸ…½Ä2
+X	java:S125#"<This block of commented-out lines of code should be removed.(¯·Ä±8Ïœ‚½Ä2

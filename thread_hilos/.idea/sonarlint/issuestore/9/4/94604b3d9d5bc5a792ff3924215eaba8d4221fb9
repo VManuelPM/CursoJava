@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Φ•β»Δ2
+F	java:S106"+Replace this use of System.out by a logger.(Ζ½πf8ζΊΠ»Δ2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8ΰ•β»Δ2
+L	java:S106"+Replace this use of System.out by a logger.(ΝΐΘψÿÿÿÿ8ηΊΠ»Δ2
+L	java:S106"+Replace this use of System.out by a logger.(΄µώλώÿÿÿÿ8ηΊΠ»Δ2
