@@ -1,0 +1,20 @@
+
+C
+java:S1481"&Remove this unused "f" local variable.(óËµ­8ü¿ŸƒÇ2
+L	java:S106"+Replace this use of System.out by a logger.(°Ô§ñıÿÿÿÿ8ü¿ŸƒÇ2
+y
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<String>'(ˆ„û†8ı¿ŸƒÇ2
+I
+java:S1602",Remove useless curly braces around statement(ˆ„û†8ı¿ŸƒÇ2
+L	java:S106"+Replace this use of System.out by a logger.(×Âİüÿÿÿÿ8ı¿ŸƒÇ2
+F	java:S106"+Replace this use of System.out by a logger.(”¹ûm8ı¿ŸƒÇ2
+[
+java:S1612""9Replace this lambda with method reference 'Usuario::new'.(·û²ˆÿÿÿÿÿ8ş¿ŸƒÇ2
+N
+java:S1602%",Remove useless curly braces around statement(îşÿ®ûÿÿÿÿ8ş¿ŸƒÇ2
+_
+java:S1612%"=Replace this lambda with method reference 'Usuario::setName'.(îşÿ®ûÿÿÿÿ8ş¿ŸƒÇ2
+L	java:S106*"+Replace this use of System.out by a logger.(¸ñ”ãúÿÿÿÿ8ş¿ŸƒÇ2
+p
+java:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(Ô¸ÿÅ8ş¿ŸƒÇ2
+L	java:S1060"+Replace this use of System.out by a logger.(°è­‡üÿÿÿÿ8ş¿ŸƒÇ2

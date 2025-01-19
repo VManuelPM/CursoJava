@@ -1,0 +1,18 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "manuel" 5 times.(ıúş±8ß¤¡…Ç2
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(çÊ÷¤8ä¤¡…Ç2
+G	java:S106
+"+Replace this use of System.out by a logger.(§—‚ó8å¤¡…Ç2
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ú¦¬ù8å¤¡…Ç2
+G	java:S106"+Replace this use of System.out by a logger.(ã‘8å¤¡…Ç2
+~
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(¨’ÿÿÿÿÿ8å¤¡…Ç2
+L	java:S106"+Replace this use of System.out by a logger.(ªùïûÿÿÿÿ8å¤¡…Ç2
+]	java:S125"<This block of commented-out lines of code should be removed.(ğÒ‡Ÿøÿÿÿÿ8‰ë¡…Ç2
+L	java:S106"+Replace this use of System.out by a logger.(‘£ééûÿÿÿÿ8æ¤¡…Ç2
+y
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(«¡§§8›ç¦…Ç2
+G	java:S106"+Replace this use of System.out by a logger.(ØËã8ÀÑ¤…Ç2
