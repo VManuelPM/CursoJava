@@ -8,4 +8,4 @@ G	java:S106"+Replace this use of System.out by a logger.(çÂè˜8ª¾Ä2
 java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ª¾Ä2
 e
 java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8¦ø­¾Ä2
-G	java:S106"+Replace this use of System.out by a logger.(ÃËŠ8ÁØµ¾Ä2
+G	java:S106"+Replace this use of System.out by a logger.(ÃËŠ8ÁØµ¾Ä2
