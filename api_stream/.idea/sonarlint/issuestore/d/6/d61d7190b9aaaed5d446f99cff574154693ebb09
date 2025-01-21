@@ -1,0 +1,11 @@
+
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ºæ¿şÇ2
+>
+java:S3864"!Remove this use of "Stream.peek".(÷¶Âà8¾ĞÆşÇ2
+I
+java:S1602",Remove useless curly braces around statement(÷¶Âà8îŞÍşÇ2
+G	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8¦€½şÇ2
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Èæ¿şÇ2
+L	java:S1061"+Replace this use of System.out by a logger.(Ïå³óÿÿÿÿÿ8¿ĞÆşÇ2
+L	java:S1062"+Replace this use of System.out by a logger.(ú¡ôİøÿÿÿÿ8ğŞÍşÇ2

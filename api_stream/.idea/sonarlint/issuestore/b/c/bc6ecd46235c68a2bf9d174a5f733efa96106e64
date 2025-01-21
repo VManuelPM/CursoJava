@@ -1,0 +1,5 @@
+
+>
+java:S3864""!Remove this use of "Stream.peek".(×—åÇ8ÃÇúıÇ2
+G	java:S106""+Replace this use of System.out by a logger.(×—åÇ8ÃÏõıÇ2
+G	java:S106$"+Replace this use of System.out by a logger.(¥øöğ8ÛéûıÇ2

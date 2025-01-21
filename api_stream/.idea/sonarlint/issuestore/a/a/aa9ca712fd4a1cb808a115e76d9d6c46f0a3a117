@@ -1,0 +1,9 @@
+
+>
+java:S3864"!Remove this use of "Stream.peek".(¯ø¶—8İŒªüÇ2
+G	java:S106"+Replace this use of System.out by a logger.(¯ø¶—8ŞŒªüÇ2
+L	java:S106"+Replace this use of System.out by a logger.(èÄ¬©ÿÿÿÿÿ8ØÄ­üÇ2
+d
+java:S1128"BRemove this unused import 'com.amoelcodigo.stream.models.Usuario'.(¤¸›“ùÿÿÿÿ8îÖ¬üÇ2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8îÖ¬üÇ2

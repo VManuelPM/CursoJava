@@ -1,0 +1,11 @@
+
+>
+java:S3864"!Remove this use of "Stream.peek".(¯ø¶—8¥¶³ûÇ2
+G	java:S106"+Replace this use of System.out by a logger.(¯ø¶—8§¶³ûÇ2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£ßˆ8§¶³ûÇ2
+N
+java:S1602",Remove useless curly braces around statement(£›Òƒıÿÿÿÿ8§¶³ûÇ2
+L	java:S106"+Replace this use of System.out by a logger.(ÅìÑÿÿÿÿÿ8²È·ûÇ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8§¶³ûÇ2

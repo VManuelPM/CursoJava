@@ -1,0 +1,11 @@
+
+>
+java:S3864"!Remove this use of "Stream.peek".(Á¡Ûß8–é—üÇ2
+G	java:S106"+Replace this use of System.out by a logger.(Á¡Ûß8—é—üÇ2
+X	java:S125"<This block of commented-out lines of code should be removed.(Žœô8˜é—üÇ2
+L	java:S106 "+Replace this use of System.out by a logger.(õü‡ñùÿÿÿÿ8˜é—üÇ2
+G	java:S106""+Replace this use of System.out by a logger.(ªî…ˆ8æ“œüÇ2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8˜é—üÇ2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8˜é—üÇ2

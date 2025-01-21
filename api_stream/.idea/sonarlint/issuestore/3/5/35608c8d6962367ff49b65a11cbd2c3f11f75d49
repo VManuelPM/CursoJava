@@ -1,0 +1,11 @@
+
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Paco Gonzalez" 3 times.(ÔÉ™Žýÿÿÿÿ
+>
+java:S3864"!Remove this use of "Stream.peek".(×—åÇ8à„ŠýÇ2
+G	java:S106"+Replace this use of System.out by a logger.(×—åÇ8µô‡ýÇ2
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8ò™ýüÇ2
+X	java:S125"<This block of commented-out lines of code should be removed.(»©Æ«8˜ÁˆýÇ2
+G	java:S106!"+Replace this use of System.out by a logger.(†šê´8¯ÒŽýÇ2
+L	java:S106""+Replace this use of System.out by a logger.(Èîë”øÿÿÿÿ8Ä€ýÇ2

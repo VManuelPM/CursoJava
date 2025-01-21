@@ -1,0 +1,9 @@
+
+>
+java:S3864"!Remove this use of "Stream.peek".(Á¡Ûß8ì™ÌûÇ2
+G	java:S106"+Replace this use of System.out by a logger.(Á¡Ûß8ï™ÌûÇ2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(£ßˆ8ğ™ÌûÇ2
+N
+java:S1602",Remove useless curly braces around statement(£›Òƒıÿÿÿÿ8ğ™ÌûÇ2
+L	java:S106"+Replace this use of System.out by a logger.(ÅìÑÿÿÿÿÿ8ñ™ÌûÇ2

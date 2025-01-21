@@ -1,0 +1,8 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Paco Gonzalez" 4 times.(ÔÉ™Žýÿÿÿÿ8ð¨²üÇ2
+G	java:S106"+Replace this use of System.out by a logger.(Çü€ç8„ó¶üÇ2
+d
+java:S1128"BRemove this unused import 'com.amoelcodigo.stream.models.Usuario'.(¤¸›“ùÿÿÿÿ8„ó¶üÇ2
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8„ó¶üÇ2
