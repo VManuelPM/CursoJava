@@ -1,0 +1,13 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "zonas".(áßşì8ØëÔÖÈ2
+]	java:S125"<This block of commented-out lines of code should be removed.(ŒÎ¾Ñúÿÿÿÿ8Ñ’ÓÖÈ2
+G	java:S106"+Replace this use of System.out by a logger.(™éæï8¿´ÒÖÈ2
+]	java:S125"<This block of commented-out lines of code should be removed.(¦Æ—Ãøÿÿÿÿ8¿´ÒÖÈ2
+G	java:S106"+Replace this use of System.out by a logger.(‡»Ãª8¿´ÒÖÈ2
+L	java:S106"+Replace this use of System.out by a logger.(©¼’úÿÿÿÿ8¿´ÒÖÈ2
+G	java:S106"+Replace this use of System.out by a logger.(¢´“Ú8¿´ÒÖÈ2
+G	java:S106"+Replace this use of System.out by a logger.(é—ÓÍ8¿´ÒÖÈ2
+G
+java:S1481"*Remove this unused "zonas" local variable.(áßşì8ÚëÔÖÈ2
+]	java:S125"<This block of commented-out lines of code should be removed.(¬·öùÿÿÿÿ8ÛëÔÖÈ2

@@ -1,0 +1,16 @@
+
+q
+java:S1192
+"ODefine a constant instead of duplicating this literal "fechaTiempo = " 3 times.(“ÒñØøÿÿÿÿ8ûô†ÕÈ2
+L	java:S106
+"+Replace this use of System.out by a logger.(“ÒñØøÿÿÿÿ8‚õ†ÕÈ2
+L	java:S106"+Replace this use of System.out by a logger.(“ÒñØøÿÿÿÿ8‚õ†ÕÈ2
+G	java:S106"+Replace this use of System.out by a logger.(—øèî8‚õ†ÕÈ2
+L	java:S106"+Replace this use of System.out by a logger.(“ÒñØøÿÿÿÿ8‚õ†ÕÈ2
+G	java:S106"+Replace this use of System.out by a logger.(éš¶8‚õ†ÕÈ2
+G	java:S106"+Replace this use of System.out by a logger.(Ã÷ü®8‚õ†ÕÈ2
+L	java:S106"+Replace this use of System.out by a logger.(Ì“§Áüÿÿÿÿ8ƒõ†ÕÈ2
+G	java:S106"+Replace this use of System.out by a logger.(¥—ÈÉ8ƒõ†ÕÈ2
+L	java:S106 "+Replace this use of System.out by a logger.(§Ä½¥şÿÿÿÿ8ƒõ†ÕÈ2
+L	java:S106$"+Replace this use of System.out by a logger.(Üğ•“ùÿÿÿÿ8ƒõ†ÕÈ2
+L	java:S106'"+Replace this use of System.out by a logger.(‰¾™‹şÿÿÿÿ8èÃˆÕÈ2

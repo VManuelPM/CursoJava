@@ -1,0 +1,25 @@
+
+q
+java:S1192"ODefine a constant instead of duplicating this literal "fechaActual = " 4 times.(åÃì¬úÿÿÿÿ8ÆŸŠÔÈ2
+L	java:S106"+Replace this use of System.out by a logger.(åÃì¬úÿÿÿÿ8ÏŸŠÔÈ2
+G	java:S106"+Replace this use of System.out by a logger.(ÎÜ÷8ÏŸŠÔÈ2
+L	java:S106"+Replace this use of System.out by a logger.(‰ˆ†³úÿÿÿÿ8ÏŸŠÔÈ2
+G	java:S106"+Replace this use of System.out by a logger.(×ùá8ÏŸŠÔÈ2
+G	java:S106"+Replace this use of System.out by a logger.(›‹Œ»8ĞŸŠÔÈ2
+K
+java:S1874".Remove this use of "Locale"; it is deprecated.(›‹Œ»8¶ÃŒÔÈ2
+G	java:S106"+Replace this use of System.out by a logger.(ÖÑ˜Û8ĞŸŠÔÈ2
+G	java:S106"+Replace this use of System.out by a logger.(™•¾8ĞŸŠÔÈ2
+K
+java:S1874".Remove this use of "Locale"; it is deprecated.(™•¾8‚¬—ÔÈ2
+L	java:S106"+Replace this use of System.out by a logger.(åÃì¬úÿÿÿÿ8ĞŸŠÔÈ2
+L	java:S106"+Replace this use of System.out by a logger.(åÃì¬úÿÿÿÿ8ĞŸŠÔÈ2
+L	java:S106 "+Replace this use of System.out by a logger.(åÃì¬úÿÿÿÿ8ÑŸŠÔÈ2
+L	java:S106#"+Replace this use of System.out by a logger.(¯ù–°ÿÿÿÿÿ8ÑŸŠÔÈ2
+L	java:S106&"+Replace this use of System.out by a logger.(ğ¡øÿÿÿÿ8ÑŸŠÔÈ2
+L	java:S106)"+Replace this use of System.out by a logger.(×Ôğúÿÿÿÿ8ÑŸŠÔÈ2
+L	java:S106,"+Replace this use of System.out by a logger.(ûŸ„Œüÿÿÿÿ8ÒŸŠÔÈ2
+L	java:S106/"+Replace this use of System.out by a logger.(ßÖ×ÿÿÿÿÿ8ÒŸŠÔÈ2
+L	java:S1062"+Replace this use of System.out by a logger.(ı¸«°üÿÿÿÿ8úÎ‹ÔÈ2
+G	java:S1065"+Replace this use of System.out by a logger.(Êô‡8¶’”ÔÈ2
+G	java:S1068"+Replace this use of System.out by a logger.(Êô‡8²–ÔÈ2
