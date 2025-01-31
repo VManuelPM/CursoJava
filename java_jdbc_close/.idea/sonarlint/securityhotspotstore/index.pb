@@ -11,7 +11,3 @@ c
 3src/main/java/com/amoelcodigo/jdbc/EjemploJdbc.java,2/a/2ad54e0697209d872b2a75e19edca774be45c0e6
 y
 Isrc/main/java/com/amoelcodigo/jdbc/repository/ProductoRepositoryImpl.java,d/6/d6eb7fe1f86360db6dde4dd37c86e847dfb8a7f0
-h
-8src/main/java/com/amoelcodigo/jdbc/models/Categoria.java,b/a/baa42c5c11c9912f4a4f862e0254375dde3b117a
-i
-9src/main/java/com/amoelcodigo/jdbc/EjemploJdbcUpdate.java,8/9/89837c417a1a9363079b6f59e48c7814477b49a9

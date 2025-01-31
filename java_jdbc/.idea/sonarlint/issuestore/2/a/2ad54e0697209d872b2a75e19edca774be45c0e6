@@ -1,4 +1,10 @@
 
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‹ÉäœË2
-L	java:S106"+Replace this use of System.out by a logger.(Ş“Ÿ˜şÿÿÿÿ8¦¦¶Ë2
-G	java:S106"+Replace this use of System.out by a logger.(Òİ“ğ8Üˆ·Ë2
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8šûÔÇË2
+G	java:S106"+Replace this use of System.out by a logger.(Û®¹Ï8ŸûÔÇË2
+L	java:S106"+Replace this use of System.out by a logger.(Ş“Ÿ˜şÿÿÿÿ8 ûÔÇË2
+G	java:S106"+Replace this use of System.out by a logger.(òÖª8 ûÔÇË2
+G	java:S106"+Replace this use of System.out by a logger.(Òİ“ğ8 ûÔÇË2
+F	java:S106"+Replace this use of System.out by a logger.(Œƒ«
+8 ûÔÇË2
+L	java:S106!"+Replace this use of System.out by a logger.(Ïµõëüÿÿÿÿ8¡×ÇË2
+L	java:S106""+Replace this use of System.out by a logger.(Ş“Ÿ˜şÿÿÿÿ8©€ØÇË2
