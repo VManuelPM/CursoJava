@@ -1,0 +1,15 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(Û®¹Ï
+E	java:S106"+Replace this use of System.out by a logger.(Ş“Ÿ˜şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(òÖª
+@	java:S106"+Replace this use of System.out by a logger.(Òİ“ğ
+?	java:S106"+Replace this use of System.out by a logger.(Œƒ«
+
+E	java:S106"+Replace this use of System.out by a logger.(Ïµõëüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ş“Ÿ˜şÿÿÿÿ
+^
+java:S1128"ARemove this unused import 'com.amoelcodigo.jdbc.util.ConexionBD'.(Èµş‹8Ù€à‡Ì2
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ù€à‡Ì2
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ù€à‡Ì2
