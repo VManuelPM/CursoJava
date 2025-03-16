@@ -1,14 +1,0 @@
-
-’
-java:S1192#"uDefine a constant instead of duplicating this literal "Ingresa el nombre y apellido de un familiar o amigo:" 3 times.(ØÄŠô8ã’‡ Œ1
-7
-java:S1220""Move this file to a named package.8É¢ Œ1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(–Ã›8Ö¢ Œ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ä¾§şÿÿÿÿ8×¢ Œ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.( ¾‚şÿÿÿÿ8×¢ Œ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºíÜşÿÿÿÿ8Ø¢ Œ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍ¶íøÿÿÿÿ8Ø¢ Œ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(»ˆã¥ıÿÿÿÿ8Ø¢ Œ1
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(è–—8Š“‡ Œ1
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¬•ˆ Œ1
