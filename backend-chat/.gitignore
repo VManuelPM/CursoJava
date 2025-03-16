@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+mongodb-macos-aarch64-8.0.5/
+data/db/
